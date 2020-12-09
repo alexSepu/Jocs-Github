@@ -1,0 +1,12 @@
+C:\Users\jfedc\source\repos\FormMDI\FormMDI\obj\Debug\FormMDI.csprojAssemblyReference.cache
+C:\Users\jfedc\source\repos\FormMDI\FormMDI\obj\Debug\FormMDI.FrmMain.resources
+C:\Users\jfedc\source\repos\FormMDI\FormMDI\obj\Debug\FormMDI.FrmPedraPaperTisora.resources
+C:\Users\jfedc\source\repos\FormMDI\FormMDI\obj\Debug\FormMDI.FrmPenjat.resources
+C:\Users\jfedc\source\repos\FormMDI\FormMDI\obj\Debug\FormMDI.Properties.Resources.resources
+C:\Users\jfedc\source\repos\FormMDI\FormMDI\obj\Debug\FormMDI.csproj.GenerateResource.cache
+C:\Users\jfedc\source\repos\FormMDI\FormMDI\obj\Debug\FormMDI.csproj.CoreCompileInputs.cache
+C:\Users\jfedc\source\repos\FormMDI\FormMDI\bin\Debug\FormMDI.exe.config
+C:\Users\jfedc\source\repos\FormMDI\FormMDI\bin\Debug\FormMDI.exe
+C:\Users\jfedc\source\repos\FormMDI\FormMDI\bin\Debug\FormMDI.pdb
+C:\Users\jfedc\source\repos\FormMDI\FormMDI\obj\Debug\FormMDI.exe
+C:\Users\jfedc\source\repos\FormMDI\FormMDI\obj\Debug\FormMDI.pdb
