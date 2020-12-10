@@ -10,3 +10,15 @@ C:\Users\jfedc\source\repos\FormMDI\FormMDI\bin\Debug\FormMDI.exe
 C:\Users\jfedc\source\repos\FormMDI\FormMDI\bin\Debug\FormMDI.pdb
 C:\Users\jfedc\source\repos\FormMDI\FormMDI\obj\Debug\FormMDI.exe
 C:\Users\jfedc\source\repos\FormMDI\FormMDI\obj\Debug\FormMDI.pdb
+E:\Trabajo\github\practicajocs\Jocs-main\FormMDI\FormMDI\bin\Debug\FormMDI.exe.config
+E:\Trabajo\github\practicajocs\Jocs-main\FormMDI\FormMDI\bin\Debug\FormMDI.exe
+E:\Trabajo\github\practicajocs\Jocs-main\FormMDI\FormMDI\bin\Debug\FormMDI.pdb
+E:\Trabajo\github\practicajocs\Jocs-main\FormMDI\FormMDI\obj\Debug\FormMDI.csprojAssemblyReference.cache
+E:\Trabajo\github\practicajocs\Jocs-main\FormMDI\FormMDI\obj\Debug\FormMDI.FrmMain.resources
+E:\Trabajo\github\practicajocs\Jocs-main\FormMDI\FormMDI\obj\Debug\FormMDI.FrmPedraPaperTisora.resources
+E:\Trabajo\github\practicajocs\Jocs-main\FormMDI\FormMDI\obj\Debug\FormMDI.FrmPenjat.resources
+E:\Trabajo\github\practicajocs\Jocs-main\FormMDI\FormMDI\obj\Debug\FormMDI.Properties.Resources.resources
+E:\Trabajo\github\practicajocs\Jocs-main\FormMDI\FormMDI\obj\Debug\FormMDI.csproj.GenerateResource.cache
+E:\Trabajo\github\practicajocs\Jocs-main\FormMDI\FormMDI\obj\Debug\FormMDI.csproj.CoreCompileInputs.cache
+E:\Trabajo\github\practicajocs\Jocs-main\FormMDI\FormMDI\obj\Debug\FormMDI.exe
+E:\Trabajo\github\practicajocs\Jocs-main\FormMDI\FormMDI\obj\Debug\FormMDI.pdb
